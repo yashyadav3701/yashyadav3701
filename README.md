@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Yadav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashyadav3701&label=Profile%20views&color=0e75b6&style=flat" alt="yashyadav3701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashyadav3701" alt="yashyadav3701" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yash37011" target="blank"><img src="https://img.shields.io/twitter/follow/yash37011?logo=twitter&style=for-the-badge" alt="yash37011" /></a> </p>
 
 - 📫 How to reach me **yashyadav3701@gmail.com**
